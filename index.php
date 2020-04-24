@@ -53,7 +53,7 @@
 		        <div id="contact">
 			        <div class="header-mobile">
                 <a class="header-toggle"><i class="fas fa-bars"></i></a>
-                <h2>TM</h2>
+                <h2>About Jason</h2>
               </div>
 			
 			        <!-- Left Block -->
@@ -146,8 +146,8 @@
                             <div class="loc">
                               <i class="fas fa-map-marked-alt"></i> New York, USA
                             </div>
-                            <p>Hi! I'm Jason Coello a versatile, reliable & competent software engineer with over 8 years of experience in Full Stack Web Development, Hybrid / Native Mobile App Development, Functional Programming, OOP, Database Administration / Design, Data Visualization, and RESTful API Development / Integration.</p>
-										        <p>Please contact me whenever you are interested in working with me.</p>
+                            <p>Versatile, reliable & competent software engineer with over 8 years of experience in Full Stack Web Development, Hybrid / Native Mobile App Development, Functional Programming, OOP, Database Administration / Design, Data Visualization, and RESTful API Development / Integration.</p>
+										        <p>"Stay Hungry, Stay Foolish"</p>
 									        </div>
 									
 									        <!-- Icon Info -->
@@ -166,7 +166,7 @@
                             <div class="info-icon">
                               <i class="fas fa-certificate"></i>
                               <div class="desc-icon">
-												        <h6>15+ Projects</h6>
+												        <h6>20+ Projects</h6>
                                 <p>Completed</p>
                               </div>
                             </div>
@@ -194,9 +194,9 @@
                             </div>
                           </div>
                           
-									        <!--<div class="col-lg-3 col-sm-12 pt-50">
-                            <a href="#" class="btn-st">Download CV</a>
-                          </div>!-->
+									        <div class="col-lg-3 col-sm-12 pt-50">
+                            <a href="/resume.pdf" class="btn-st">Resume</a>
+                          </div>
 
 								        </div>
 							        </div>
@@ -360,7 +360,7 @@
                       <div class="service box-1 mb-40">
                         <i class="fab fa-bitcoin"></i>
                         <h4>Blockchain</h4>
-                        <p>Token Launch, Audits, ICO, IPO, Network Development, Security and Exchange Bots</p>
+                        <p>Token Launch, Audits, ICO, Network Development, Security and Exchange Bots</p>
                       </div>
                     </div>
 					        </div>
