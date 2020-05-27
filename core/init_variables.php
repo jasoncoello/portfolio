@@ -274,13 +274,13 @@
       'image' => 'img/portfolio/nai.jpg',
       'link' => 'https://commute.naipartners.com/'
     ],
-    [
+    /*[
       'category' => 'ecommerce mvc framework',
       'title' => 'GoPrep - Meal Prep Ordering Platform',
       'description' => 'Laravel, Vue.js',
       'image' => 'img/portfolio/goprep.jpg',
       'link' => 'https://www.goprep.com/'
-    ],
+    ],*/
     [
       'category' => 'framework',
       'title' => 'National Museum of the Surface Navy',

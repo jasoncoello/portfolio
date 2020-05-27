@@ -978,7 +978,7 @@
                       <div class="col-lg-4 col-sm-12 info">
                         <i class="fas fa-map-marker-alt"></i>
                         <p>714 Amsterdam Avenue, New York, NY 10025, USA</p>
-                        <span>Addres</span>
+                        <span>Address</span>
                       </div>
 
 							        <div class="col-lg-4 col-sm-12 info">
